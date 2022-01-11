@@ -254,7 +254,7 @@ public class App extends javax.swing.JFrame {
 
         //TODO: txt name
         {
-            titleName.setText("Nikita Batnikov v0.1");
+            titleName.setText("NTM v0.1");
             titleDiscipline.setText("Математическое моделирование ");
             discipline.setText("Дисциплина: ");
             addButton.setText("Добавить студентов");
